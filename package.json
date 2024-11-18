@@ -1,0 +1,21 @@
+{
+  "name": "my-first-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd client && npm install && npm run build",
+    "start": "cd server && npm install && npm start"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leequh/my-first-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leequh/my-first-app/issues"
+  },
+  "homepage": "https://github.com/leequh/my-first-app#readme",
+  "description": ""
+}
